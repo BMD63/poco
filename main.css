@@ -109,7 +109,7 @@ body{
     }
 .sp1pic{
     width: 100%;
-    position: absolute;
+    /* position: absolute; */
 }
 .spec1 .t2 {
     color: #ffd400;
